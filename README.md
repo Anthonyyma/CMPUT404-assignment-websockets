@@ -10,7 +10,9 @@ Make a shared state Websockets drawing program
 References
 ==========
 index.html: reference my code from assignement 4 https://github.com/Anthonyyma/CMPUT404-assignment-ajax.git
+
 sockets.py:
+
 All client code, read_ws function code, and subscribe_socket code taken from lecture code: https://github.com/uofa-cmput404/cmput404-slides/blob/master/examples/WebSocketsExamples/chat.py
 
 Prereqs
