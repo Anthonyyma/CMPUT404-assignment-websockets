@@ -7,6 +7,10 @@ See requirements.org (plain-text) for a description of the project.
 
 Make a shared state Websockets drawing program
 
+References
+==========
+index.html: reference my code from assignement 4 https://github.com/Anthonyyma/CMPUT404-assignment-ajax.git
+
 Prereqs
 =======
 Create a virtual environment and install the required dependencies.
