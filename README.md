@@ -15,6 +15,8 @@ sockets.py:
 
 All client code, read_ws function code, and subscribe_socket code taken from lecture code: https://github.com/uofa-cmput404/cmput404-slides/blob/master/examples/WebSocketsExamples/chat.py
 
+All update, world, get_entity, and clear function code taken from my assignment 4: https://github.com/Anthonyyma/CMPUT404-assignment-ajax/blob/master/server.py
+
 Prereqs
 =======
 Create a virtual environment and install the required dependencies.
